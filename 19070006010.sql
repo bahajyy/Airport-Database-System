@@ -3,7 +3,7 @@
 -- Short description of your scenario:
 -- In this scenario, I created a database for an airport. This scenario includes the airport, the planes, the owners of the planes, 
 -- the model of the planes, the pilots, the employees at the airport, the flights, the customers, the seats, and the prices of the seats. 
--- Each entity has at least 2 insertions. I completed my homework by creating some queries and some updates suitable for this scenario.
+-- Each entity has at least 2 insertions. I completed my project by creating some queries and some updates suitable for this scenario.
 
 -- 1. Create and use a schema for your project named SE2222_[your_ID]
 DROP DATABASE IF EXISTS SE2222_19070006010;
