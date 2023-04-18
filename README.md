@@ -1,4 +1,4 @@
-# Airport-Management-System
+# Airport-DB-System
 
 In an airport management system, the database is used to keep track of airplanes, their owners, airport information, plane types, airport employees, flight information, airplane’s seat, flight fare, customer information and information about the pilot of the plane.
 
